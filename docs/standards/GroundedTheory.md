@@ -21,7 +21,7 @@ following conditions:
 
 For predominately qualitative inquiries that do not iterate between data
 collection and analysis or do not use theoretical sampling, consider the
-**Case Study Standard** or the **Qualitative Survey Standard**.
+**Case Study Standard** or the **Interview Study Standard**.
 
 ## Specific Attributes 
 

@@ -82,7 +82,7 @@ function openStandardFromURL(evt) {
 		<li><a id="ActionResearch_b"         class="tablinks" href="#" onclick="openStandard(event, 'ActionResearch')">Action Research</a></li>
 		<li><a id="CaseStudy_b"              class="tablinks" href="#" onclick="openStandard(event, 'CaseStudy')">Case Study</a></li>
 		<li><a id="GroundedTheory_b"         class="tablinks" href="#" onclick="openStandard(event, 'GroundedTheory')">Grounded Theory</a></li>
-		<li><a id="QualitativeSurvey_b"     class="tablinks" href="#" onclick="openStandard(event, 'QualitativeSurveys')">Qualitative Survey</a></li>
+		<li><a id="InterviewStudy_b"         class="tablinks" href="#" onclick="openStandard(event, 'InterviewStudies')">Interview Study</a></li>
 	  </ul>
     </li>
     <li>
@@ -179,6 +179,13 @@ function openStandardFromURL(evt) {
   </p>
 </div>
 
+<div id="InterviewStudies" class="tabcontent">
+  <p>
+    {% capture std %}{% include_relative docs/standards/QualitativeSurveys.md %}{% endcapture %}
+    {{ std | remove: '<standard name="Interview Studies">' | remove: '<checklist name="Essential">' | remove: '<checklist name="Desirable">' | remove: '<checklist name="Extraordinary">' | remove: '</checklist>' | remove: '</standard>' | remove: '<footnote>' | remove: '</footnote>' | remove: '<intro>' | remove: '<method>' | remove: '<results>' | remove: '<discussion>' | remove: '<other>' | replace: '- [ ]', '-' | replace: 'https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/standards/', '../docs/standards?standard=' | replace: 'https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/', '../docs/supplements?supplement=' | replace: '.md', '' | markdownify }}
+  </p>
+</div>
+
 <div id="Longitudinal" class="tabcontent">
   <p>
     {% capture std %}{% include_relative docs/standards/Longitudinal.md %}{% endcapture %}
@@ -207,12 +214,7 @@ function openStandardFromURL(evt) {
   </p>
 </div>
 
-<div id="QualitativeSurveys" class="tabcontent">
-  <p>
-    {% capture std %}{% include_relative docs/standards/QualitativeSurveys.md %}{% endcapture %}
-    {{ std | remove: '<standard name="Qualitative Surveys (Interview Studies)">' | remove: '<checklist name="Essential">' | remove: '<checklist name="Desirable">' | remove: '<checklist name="Extraordinary">' | remove: '</checklist>' | remove: '</standard>' | remove: '<footnote>' | remove: '</footnote>' | remove: '<intro>' | remove: '<method>' | remove: '<results>' | remove: '<discussion>' | remove: '<other>' | replace: '- [ ]', '-' | replace: 'https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/standards/', '../docs/standards?standard=' | replace: 'https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/', '../docs/supplements?supplement=' | replace: '.md', '' | markdownify }}
-  </p>
-</div>
+
 
 <div id="QuantitativeSimulation" class="tabcontent">
   <p>

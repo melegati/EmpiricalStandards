@@ -4,7 +4,7 @@ A study in which information and data is gathered directly from human beings
 
 ## Application
 
-This standard applies to studies in which one or more human beings other than the researchers take part in the research (e.g. Action Research, Case Study, Grounded Theory, Qualitative Surveys, Experiments, Questionnaire Surveys).
+This standard applies to studies in which one or more human beings other than the researchers take part in the research (e.g. Action Research, Case Study, Grounded Theory, Interview Studies, Experiments, Questionnaire Surveys).
 
 ## Specific Attributes
 

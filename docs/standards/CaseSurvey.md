@@ -14,7 +14,7 @@ This standard applies to studies in which:
 -	the qualitative case descriptions are converted systematically into quantitative data; and
 -	the converted quantitative data is analyzed to reach generalizable results.
 
-This standard does not apply to studies collecting primary data from a large number of instances of a phenomenon; for instance, using interviews (consider the **Qualitative Survey Standard**) or questionnaires (consider the **Questionnaire Survey Standard**). For individual case studies use the **Case Study Standard**. For reviews of other kinds of studies (e.g., experiments) consider the **Systematic Review Standard**. This standard also does not apply to qualitative synthesis (e.g. meta-ethnography, narrative synthesis). 
+This standard does not apply to studies collecting primary data from a large number of instances of a phenomenon; for instance, using interviews (consider the **Interview Study Standard**) or questionnaires (consider the **Questionnaire Survey Standard**). For individual case studies use the **Case Study Standard**. For reviews of other kinds of studies (e.g., experiments) consider the **Systematic Review Standard**. This standard also does not apply to qualitative synthesis (e.g. meta-ethnography, narrative synthesis). 
 
 ## Specific Attributes
 

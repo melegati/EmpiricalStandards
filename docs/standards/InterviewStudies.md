@@ -1,5 +1,5 @@
-# Qualitative Surveys (Interview Studies) 
-<standard name="Qualitative Surveys (Interview Studies)">
+# Interview Studies 
+<standard name="Interview Studies">
 
 
 
@@ -99,7 +99,7 @@ reliability typically do not apply.
 
 -   Interviewing a small number of similar people, creating the illusion
     of convergence and saturation
--   Mis-presenting a qualitative survey as grounded theory or a case
+-   Mis-presenting a interview study as grounded theory or a case
     study.
 
 ## Invalid Criticisms 
@@ -110,12 +110,11 @@ reliability typically do not apply.
 -   Lack of probability sampling, statistical generalizability or
     representativeness unless representative sampling was an explicit
     goal of the study.
--   Failure to apply grounded theory or case study practices. A
-    qualitative survey is not grounded theory or a case study.
+-   Failure to apply grounded theory or case study practices. An interview study is not grounded theory or a case study.
 
 ## Notes 
 
--   A qualitative survey generally has more interviews than a case study
+-   An interview study generally has more interviews than a case study
     that triangulates across different kinds of data.
 
 ## Suggested Readings 
