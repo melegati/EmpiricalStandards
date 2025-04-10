@@ -2,7 +2,6 @@
 <standard name="Interview Studies">
 
 
-
 _<desc>Research aiming to identify the diversity of characteristic values, rather than measuring their distribution, in a targeted population</desc>_
 
 
@@ -22,14 +21,17 @@ If respondents are all from the same organization, consider the **Case Study Sta
 
 <method>    
     
-- [ ]	identifies the target population and defines the sampling strategy (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/Sampling.md)) explaining how it guarantees that most, if not all, possible values of a characteristic are represented 
-- [ ]	describes how the data collection instrument was created    
+- [ ]	identifies the target population and defines the sampling strategy (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/Sampling.md))  
+- [ ]   describes how data sources were selected (i.e., interviewees or respondents selected, documents collected)
+- [ ]	describes how the data collection instrument(s) was/were created  
+- [ ]   describes how different values for the characteristic(s) under study were individualized (e.g., thematic analysis, clustering)
+
     
 <results>    
     
-- [ ]	presents clear chain of evidence from interviewee quotations to findings (e.g. proposed concepts)
+- [ ]	presents clear chain of evidence from data to findings (e.g. proposed values)
 - [ ]	clearly answers the research question(s)
-- [ ]	provides evidence of saturation; explains how saturation was achieved<sup><a class="footnote footnote_ref">1</a></sup>
+- [ ]	provides evidence that most, if not all, possible values of a characteristic are represented
     
 <discussion>
     
@@ -47,13 +49,8 @@ If respondents are all from the same organization, consider the **Case Study Sta
 - [ ]   describes the relationships and interactions between researchers and participants relevant to the research process
 - [ ]	uses direct quotations extensively to support key points
 - [ ]   identifies data recording methods (audio/visual), field notes or transcription processes used
-- [ ]	EITHER: evaluates an a priori theory (or model, framework, taxonomy, etc.) using deductive coding with an a priori coding scheme based on the prior theory    
-     OR: synthesizes results into a new, mature, fully-developed and clearly articulated theory (or model, etc.) using some form of inductive coding (coding scheme generated from data)
-- [ ]   validates results using member checking, dialogical interviewing, feedback from non-participant practitioners or research audits of coding by advisors or other researchers<sup><a class="footnote footnote_ref">2</a></sup>)
-- [ ]	discusses transferability; findings plausibly transferable to different contexts
-- [ ]	compares results with (or integrates them into) prior theory or related research
+- [ ]	synthesizes results into a new, mature, fully-developed and clearly articulated theory (or model, etc.) 
 - [ ]   reflects on any alternative explanations of the findings
-- [ ]   provides relevant contextual information for findings
 - [ ]	reflects on how researchers’ biases may have affected their analysis
 - [ ]   describes any incentives or compensation, and provides assurance of relevant ethical processes of data collection and consent process as relevant
 </checklist>
@@ -61,19 +58,15 @@ If respondents are all from the same organization, consider the **Case Study Sta
 ### Extraordinary Attributes	
 <checklist name="Extraordinary">
 
-- [ ]	employs multiple methods of data analysis (e.g. open coding vs. process coding; manual coding vs. automated sentiment analysis) with method-triangulation
-- [ ]	employs longitudinal design (i.e. each interviewee participates multiple times) and analysis
-- [ ]	employs probabilistic sampling strategy; statistical analysis of response bias
-- [ ]	uses multiple coders and analyzes inter-coder reliability (see [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/InterRaterReliabilityAndAgreement.md))
+- [ ]	employs multiple data sources (e.g., questionnaires, interviews, documents)
+- [ ]	if analyzing qualitative data, uses multiple coders and analyzes inter-coder reliability (see [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/supplements/InterRaterReliabilityAndAgreement.md))
 </checklist>
 
 ## General Quality Criteria
 
-An interview study should address appropriate qualitative quality
-criteria such as: **credibility,** **resonance**, **usefulness**, and
-**transferability** (see [Glossary](../glossary)). Quantitative quality criteria
-such as internal validity, construct validity, generalizability and
-reliability typically do not apply.
+Survey studies should address quantitative quality criteria such
+as **internal validity**, **construct validity**, **external validity**,
+**reliability** and **objectivity** (see [Glossary](../glossary)).
 
 ## Examples of Acceptable Deviations
 
@@ -115,25 +108,25 @@ Harrie Jansen. The logic of qualitative survey research and its position in the 
 
 Virginia Braun and Victoria Clarke. "Using thematic analysis in psychology." _Qualitative Research in Psychology_ 3, 2 (2006), 77-101.
     
-Khaldoun M. Aldiabat and Carole-Lynne Le Navenec. "Data saturation: the mysterious step in Grounded Theory Methodology." _The Qualitative Report_ 23, 1 (2018), 245-261.
-    
 Michael Quinn Patton. 2002. *Qualitative Research and Evaluation Methods*. 3rd ed. Sage.
 
 Herbert J. Rubin and Irene S. Rubin. 2011. *Qualitative Interviewing: The Art of Hearing Data*. Sage.
-
-Russel Walsh. “The methods of reflexivity.” *The Humanistic Psychologist* 31, 4 (2003), 51–66. doi:10.1080/08873267.2003.9986934.
 
 Johnny Saldaña. 2015. *The coding manual for qualitative researchers*. Sage.
 
 ## Exemplars 
 
-Marian Petre. 2013. UML in practice. In *Proceedings of the 35th International Conference on Software Engineering,* San Francisco, USA, 722–731.
+Jesper Pedersen Notander, Martin H¨ost, and Per Runeson. (2013). In *Proceedings of the 14th International Conference on Product-Focused Software Process Improvement (PROFES 2013)*. Springer, Berlin, Heidelberg.
 
-Paul Ralph and Paul Kelly. 2014. The dimensions of software engineering success. In *Proceedings of the 36th International Conference on Software Engineering (ICSE 2014)*. Association for Computing Machinery, New York, NY, USA, 24–35. DOI: 10.1145/2568225.2568261
+Indira Nurdiani, Ronald Jabangwe, Kai Petersen. (2016). In *Proceedings of 2016 International Conference on Engineering, Technology and Innovation/IEEE lnternational Technology Management Conference (ICE/ITMC)*. IEEE. Trondheim, Norway, 2016, 1-8.
 
-Paul Ralph and Ewan Tempero. 2016. Characteristics of decision-making during coding. In *Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE '16).* Association for Computing Machinery, New York, NY, USA, Article 34, 1–10. DOI:10.1145/2915970.2915990
+Eveliina Lindgren and Jürgen Münch. 2016. Raising the odds of success: the current state of experimentation in product development. *Information and Software Technology*. 77 (2016), 80-91.
+
+Ann Barcomb, Andreas Kaufmann, Dirk Riehle, Klaas-Jan Stol, and Brian Fitzgerald. Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities. *IEEE Transactions on Software Engineering*. 46, 9 (2020), 962-980.
+
+Jorge Melegati, Henry Edison and Xiaofeng Wang. XPro: A Model to Explain the Limited Adoption and Implementation of Experimentation in Software Startups. 2022. *IEEE Transactions on Software Engineering*. 48, 6 (2022), 1929-1946. 
+
+
 
 ---
-<footnote><sup><a class="footnote footnote_text">1</a></sup>cf. Khaldoun M. Aldiabat and Carole-Lynne Le Navenec. "Data Saturation: The Mysterious Step in Grounded Theory Methodology." _The Qualitative Report_, vol. 23, no. 1, 2018, pp. 245-261.</footnote><br> 
-<footnote><sup><a class="footnote footnote_text">2</a></sup>L. Harvey. 2015. Beyond member-checking: A dialogic approach to the research interview, International Journal of Research & Method in Education, 38, 1, 23–38.</footnote><br>
-</standard>
+
